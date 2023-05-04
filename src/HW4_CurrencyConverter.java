@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DZ4_CurrencyConverter {
+public class HW4_CurrencyConverter {
     public static void main(String[] args) {
         System.out.println("***Конвертер валют***");
 
